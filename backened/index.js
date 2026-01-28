@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json());
 app.use(logger);
 
-// test route
+
 app.get("/", (req, res) => {
   res.json({ message: "Visa Alert API running" });
 });
