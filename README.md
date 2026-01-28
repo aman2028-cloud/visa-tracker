@@ -40,12 +40,17 @@ npm run dev
 
 ### Improvements for the Production
 1.Use a real database (MongoDB/PostgreSQL) instead of JSON file
+
 2.Add authentication
+
 3.Deploy on cloud platforms (Vercel,Render)
+
 4.Make UI responsive and mobile-friendly
 
 
 ### Where Ai helped
 Generating boilerplate React code, backend routes, basic functions
+
 Manual Work-
+
 Folder structure, table & form design, update/delete logic, connecting frontend to backend
