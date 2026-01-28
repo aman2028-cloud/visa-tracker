@@ -26,7 +26,9 @@ Each alert has:
 1. Go to the backened folder:
 
 cd backend
+
 npm install
+
 npm run dev
 
 ### Frontened
@@ -34,7 +36,9 @@ npm run dev
 1. Go to the frontened folder:
    
 cd frontened
+
 npm install
+
 npm run dev
 
 
