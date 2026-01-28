@@ -1,6 +1,6 @@
 # Visa Alert Tracker
 
-A small internal tool to track visa slot alerts for The Flying Panda.  
+A small internal tool to track visa slot alerts.
 Built with **Node.js + Express** for the backend and **React (Vite)** for the frontend.
 
 
